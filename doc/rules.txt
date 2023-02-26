@@ -1,3 +1,5 @@
 this is a text file
 I am learning
 new things
+I am good
+How are you
