@@ -8,3 +8,5 @@ if a < 10
   else
   a =a+20
  endif
+if b >65
+b = b+10
