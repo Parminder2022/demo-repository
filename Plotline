@@ -1,0 +1,4 @@
+Input x1, y1
+Input x2, y2
+x = x2 - x1
+y = y2 - y1
